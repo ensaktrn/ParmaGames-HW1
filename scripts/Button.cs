@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class Button : MonoBehaviour
 {
     public bool isHit=false;
-    public float x;
+    float x;
     public Counter counter;
    
     void Update()
